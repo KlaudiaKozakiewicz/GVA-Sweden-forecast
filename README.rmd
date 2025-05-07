@@ -2,9 +2,7 @@
 title: "GVA Forecast for Sweden using Gretl"
 author: "Klaudia Kozakiewicz"
 date: "2025-05-07"
-output:
-  pdf_document: default
-  github_document: default
+output: github_document
 ---
 
 # Prognozowanie GVA dla Szwecji
